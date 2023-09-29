@@ -4,10 +4,6 @@ A Python module for the Gomoku game.
 Implements the Gomoku game. Two players on an 8x8 grid take turns
 to try and get 5 of their pieces in a row, either vertically,
 horizontally or diagonally.
-
-Full name: Yasin Gija
-StudentId: 10875128
-Email: yasin.gija@student.manchester.ac.uk
 """
 from copy import deepcopy
 
