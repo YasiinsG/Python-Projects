@@ -1,3 +1,3 @@
 Some Python work undertaken:
 
-A game of gomoku
+- A game of gomoku
